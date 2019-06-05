@@ -1,0 +1,35 @@
+{
+    "beam_diameter": "1.5",
+    "cleanup_duration": 30.0,
+    "commit": "171112731a7f4b0c9233dad3f665c73ede257368",
+    "extract_device": "Fusions CO2",
+    "extract_duration": 30.0,
+    "extract_units": "watts",
+    "extract_value": 2.5,
+    "grain_polygons": [
+        "YidSdTY1VHVGYXJVRVNBQllBRVFBWEFCQUFGd0FRQUJnQUR3QVpBQThBR2dBT0FCc0FEZ0FjQUE0QUhRQVBBQjRBRHdBZkFCQUFJQUFSQUNFQUVnQWhBQk1BSVFBVUFDRUFGUUFoQUJZQUlRQVhBQ0FBR0FBZkFCa0FIZ0FaQUIwQUdRQWNBQmtBR3dBWkFCb0FHUUFaQUJrQUdBQVlBQmNBRndBV0FCWUFGZ0FWQUJZQUZBQVdBQk1BRmdBPSc=",
+        "YidSdTY1VHVGYXJVRVFBQlVBRHdBV0FBNEFGZ0FPQUJjQURRQVlBQTBBR1FBTkFCb0FEUUFiQUEwQUhBQU5BQjBBRFFBZUFBMEFId0FOQUNBQURnQWdBQThBSVFBUUFDSUFFUUFpQUJJQUlnQVRBQ01BRkFBakFCVUFJd0FXQUNNQUZ3QWlBQmdBSWdBWkFDRUFHZ0FnQUJvQUh3QWFBQjRBR3dBZEFCc0FIQUFiQUJzQUd3QWFBQnNBR1FBYUFCZ0FHZ0FYQUJrQUZnQVlBQllBRndBVkFCWUFGUUFWQUJVQUZBQVZBQk1BRlFBU0FCVUFFUUFWQUE9PSc=",
+        "YidSdTY1VHVGYXJVRVFBQlVBRHdBV0FBNEFGZ0FPQUJjQURRQVlBQTBBR1FBTkFCb0FEUUFiQUEwQUhBQU5BQjBBRFFBZUFBMEFId0FOQUNBQURnQWdBQThBSVFBUUFDSUFFUUFpQUJJQUlnQVRBQ01BRkFBakFCVUFJd0FXQUNNQUZ3QWlBQmdBSWdBWkFDRUFHZ0FnQUJvQUh3QWFBQjRBR3dBZEFCc0FIQUFiQUJzQUd3QWFBQnNBR1FBYUFCZ0FHZ0FYQUJrQUZnQVlBQllBRndBVkFCWUFGUUFWQUJVQUZBQVZBQk1BRlFBU0FCVUFFUUFWQUE9PSc="
+    ],
+    "load_holder": "221-hole",
+    "load_name": "C0049",
+    "measured_response": "",
+    "pattern": "dragonflypeakpattern_br1-221-small_hole.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "50",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 5.0,
+    "ramp_rate": 0.0,
+    "requested_output": "",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 0.0
+}
